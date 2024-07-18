@@ -37,6 +37,7 @@
 		A8585A462C12FE7000C07D9B /* DetailsMovieViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DetailsMovieViewController.xib; sourceTree = "<group>"; };
 		A8585A482C12FECB00C07D9B /* DetailsMovieViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailsMovieViewController.swift; sourceTree = "<group>"; };
 		A88768682C0F9C1C00666203 /* DetailsMovieViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsMovieViewModel.swift; sourceTree = "<group>"; };
+		A88DDAE42C49C2FA0069CF73 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		A8CE99B22C07FC6900E53269 /* TrendingMovies.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TrendingMovies.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8CE99B52C07FC6900E53269 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A8CE99BE2C07FC6A00E53269 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -84,6 +85,7 @@
 		A8CE99A92C07FC6900E53269 = {
 			isa = PBXGroup;
 			children = (
+				A88DDAE42C49C2FA0069CF73 /* README.md */,
 				A8CE99B42C07FC6900E53269 /* TrendingMovies */,
 				A8CE99B32C07FC6900E53269 /* Products */,
 			);
