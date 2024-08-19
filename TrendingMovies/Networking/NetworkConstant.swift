@@ -7,7 +7,6 @@
 
 import Foundation
 
-// We will create a Singleton class here which will be used as a shared for network calls
 class NetworkConstant {
     public static var shared: NetworkConstant = NetworkConstant()
     
